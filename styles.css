@@ -21,4 +21,5 @@ ul{
 }
 .right-links{
     margin-left: auto;
+    gap: 15px;
 }
