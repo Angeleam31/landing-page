@@ -10,16 +10,17 @@ header{
 .flex-header-one{
     display:flex;
     padding-top: 15px;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
     padding-bottom: 40px;
 }
 .flex-header-two{
-    padding: 40px;
+    padding: 100px;
 }
 .header-logo{
     font-size: 24px;
     color: #F9FAF8;
+    font-weight: 600;
 
 }
 ul{
