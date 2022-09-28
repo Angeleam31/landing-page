@@ -94,6 +94,7 @@ main {
     width: 250px;
     height: 150px;
     border-radius: 25px;
+    border: #1F2937 6px solid;
 }
 
 .rose-images p {
