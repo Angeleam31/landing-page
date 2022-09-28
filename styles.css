@@ -103,3 +103,22 @@ ul{
 }
 
 /*MAIN SECTION: BOTTOM*/
+.bottom{
+    width: 700px;
+    display: flex;
+    background-color: #3882F6;
+    color: white;
+    margin: 60px 60px;
+    padding: 40px 80px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bottom button{
+    margin-left: auto;
+    padding: 5px 20px;
+    background-color: #3882F6;
+    border: white 2px solid;
+    color: white;
+    border-radius: 5px;
+}
