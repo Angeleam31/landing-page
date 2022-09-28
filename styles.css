@@ -68,6 +68,7 @@ ul{
 }
 .rose-images{
     display:flex;
+    flex-wrap: wrap;
 }
 .rose-images img{
     width: 250px;
