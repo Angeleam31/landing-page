@@ -127,5 +127,7 @@ ul{
     background-color: #1F2937;
     color: white;
     text-align: center;
+    padding: 20px;
     margin-top: auto;
+    line-height: 1.5;
 }
