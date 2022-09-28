@@ -68,3 +68,16 @@ button{
     padding: 20px;
     color: #1F2937 
 }
+.rose-images{
+    display: flex;
+    justify-content: center;
+}
+.rose-images img{
+    width:200px;
+}
+.sub-text p{
+    font-size: 18px;
+}
+.sub-text{
+    display: flex;
+}
