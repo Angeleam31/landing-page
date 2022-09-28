@@ -15,7 +15,7 @@ header{
     padding-bottom: 40px;
 }
 .flex-header-two{
-    padding: 100px;
+    padding: 50px 100px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -86,4 +86,18 @@ button{
   margin: 3px;
   width: 250px;
   height: 300px;
+}
+/*MAIN SECTION: QUOTES*/
+.flex-quotes{
+    background-color: #E5E7EB;
+    padding: 50px 120px;
+}
+.flex-quotes p{
+    font-size: 36px;
+    text-align: justify;
+}
+.author p{
+    font-size: 18px;
+    text-align: right;
+    font-weight: 600;
 }
