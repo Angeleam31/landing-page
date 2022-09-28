@@ -71,13 +71,11 @@ button{
 .rose-images{
     display: flex;
     justify-content: center;
+    gap: 30px;
+    margin: 20px;
+    flex-wrap: wrap;
 }
 .rose-images img{
     width:200px;
-}
-.sub-text p{
-    font-size: 18px;
-}
-.sub-text{
-    display: flex;
+    border-radius: 25px;
 }
