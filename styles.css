@@ -63,6 +63,7 @@ button{
 /*MAIN SECTION*/
 .flex-main p{
     font-size: 33px;
+    text-align: center;
     font-weight: bolder;
     color: #1F2937 
 }
