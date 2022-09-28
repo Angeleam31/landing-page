@@ -16,6 +16,8 @@ header{
 }
 .flex-header-two{
     padding: 100px;
+    display: flex;
+    justify-content: space-between;
 }
 .header-logo{
     font-size: 24px;
@@ -34,7 +36,7 @@ ul{
     color:  #E5E7EB;
     align-items: center;
 }
-h1{
+.flex-header-two h1{
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8
@@ -53,8 +55,6 @@ button{
     border-radius: 5px;
     font-weight: 600;
 }
-.right-side{
-   
-    display: flex;
-    justify-content: flex-end;
+.flex-header-two img{
+    width: 250px;
 }
