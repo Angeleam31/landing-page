@@ -39,8 +39,11 @@ ul {
     margin-left: auto;
     gap: 15px;
     font-size: 18px;
-    color: #E5E7EB;
     align-items: center;
+}
+.right-links a{
+    color:white;
+    text-decoration: none;
 }
 
 .flex-header-two h1 {
@@ -69,7 +72,7 @@ ul {
 }
 
 .flex-header-two img {
-    width: 450px; 
+    width: 450px;
     box-shadow: 0 0 20px red;
 }
 
