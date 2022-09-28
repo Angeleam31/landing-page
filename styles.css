@@ -61,7 +61,7 @@ button{
 }
 
 /*MAIN SECTION*/
-.flex-main p{
+.header-main{
     font-size: 33px;
     text-align: center;
     font-weight: bolder;
@@ -71,11 +71,13 @@ button{
 .rose-images{
     display: flex;
     justify-content: center;
-    gap: 30px;
-    margin: 20px;
-    flex-wrap: wrap;
 }
-.rose-images img{
-    width:200px;
-    border-radius: 25px;
+img{
+    width: 200px;
+}
+.rose-images p{
+    font-size: 18px;
+    text-align: center;
+    padding: 0;
+    font-weight: 100px;
 }
