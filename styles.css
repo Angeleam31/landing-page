@@ -69,13 +69,12 @@ button{
     color: #1F2937 
 }
 .rose-images{
-  display: flex;
-  justify-content: center;
-  align-items: center;
+    display:flex;
 }
-img{
+.rose-images img{
     width: 250px;
     height: 150px;
+    border-radius: 25px;
 }
 .rose-images p{
     font-size: 18px;
