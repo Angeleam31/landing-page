@@ -53,3 +53,8 @@ button{
     border-radius: 5px;
     font-weight: 600;
 }
+.right-side{
+   
+    display: flex;
+    justify-content: flex-end;
+}
